@@ -1,0 +1,14 @@
+name = "SinCT"
+uuid = "8e59855f-29f2-46b4-aa3f-4e04ddc01468"
+authors = ["Pavel Turyansky <pavel.turyansky@kaspersky.com>"]
+version = "0.1.0"
+
+[deps]
+ACSets = "227ef7b5-1206-438b-ac65-934d6da304b8"
+AlgebraicRewriting = "725a01d3-f174-5bbd-84e1-b9417bad95d9"
+Catlab = "134e5e36-593f-5add-ad60-77f754baafbe"
+DataMigrations = "0c4ad18d-0c49-4bc2-90d5-5bca8f00d6ae"
+DiagrammaticEquations = "6f00c28b-6bed-4403-80fa-30e0dc12f317"
+GATlab = "f0ffcf3b-d13a-433e-917c-cc44ccf5ead2"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+SyntacticModels = "22bb929c-8bcf-4852-b455-eb3e1675e09c"
